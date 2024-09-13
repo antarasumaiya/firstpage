@@ -1,0 +1,42 @@
+h1 {
+    font-size: 40px;
+    color: rgb(18, 18, 45);
+    text-decoration: underline;
+    background-color: rgb(175, 161, 189);
+}
+body {
+    background-color: aquamarine;
+}
+
+li,
+#single {
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(18, 18, 45);
+    font-weight: bolder;
+    background-color: rgb(175, 161, 189);
+}
+span {
+    font-style: italic;
+    color: rgb(18, 18, 45);
+    font-size: 30px;
+    font-weight: bolder;
+    background-size: auto;
+}
+
+.type {
+    font-size: 20px;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-style: oblique;
+}
+
+* {
+    margin: 20px 25px 30px;
+}
+.bg {
+    background-color: aqua;
+}
+
+.display {
+    display: none;
+}
